@@ -1,10 +1,4 @@
-### Hi there 👋
-
-<!--
-**gamarrju/gamarrju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### Hello there!! 👋 
 - 🔭 I’m currently working on a website about myself.
 - 🌱 I’m currently learning HTML.
 - 👯 I’m looking to collaborate on future projects.
